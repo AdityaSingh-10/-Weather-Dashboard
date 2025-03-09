@@ -17,3 +17,7 @@ A simple and interactive weather dashboard that provides real-time weather updat
 - **JavaScript** - Fetching weather data and handling user input  
 - **OpenWeather API** - Retrieving weather details  
 
+🔗Contact: For questions or suggestions, feel free to reach out:
+
+- Author: Aditya Singh
+- Email: adisingh2310@outlook.com
